@@ -1,16 +1,15 @@
-## Tools
+### Tools
 
 List of tools useful for Capture The Flag (CTF) competitions.
 
 ### Table of Contents
 
 - [Tools](#tools)
-  - [Table of Contents](#table-of-contents)
-  - [Cryptography](#cryptography)
-  - [Forensics](#forensics)
-  - [Reverse Engineering](#reverse-engineering)
-  - [Web](#web)
-
+- [Table of Contents](#table-of-contents)
+- [Cryptography](#cryptography)
+- [Forensics](#forensics)
+- [Reverse Engineering](#reverse-engineering)
+- [Web](#web)
 
 ### Cryptography
 
